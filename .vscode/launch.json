@@ -1,6 +1,24 @@
 {
     "version": "0.2.0",
     "configurations": [
+        // {
+        //     "name": "Bogdand Bielashenok",
+        //     "type": "al",
+        //     "request": "launch",
+        //     "environmentType": "OnPrem",
+        //     "server": "https://bodiabeliy.github.io/BC_Academy/",
+        //     "serverInstance": "BC",
+        //     "authentication": "UserPassword",
+        //     "startupObjectId": 22,
+        //     "breakOnError": true,
+        //     "breakOnRecordWrite": false,
+        //     "launchBrowser": true,
+        //     "enableSqlInformationDebugger": true,
+        //     "enableLongRunningSqlStatements": true,
+        //     "longRunningSqlStatementsThreshold": 500,
+        //     "numberOfSqlStatements": 10,
+        //     "tenant": "default"
+        // },
         {
             "name": "Bogdan`s cloud sandbox",
             "request": "launch",
