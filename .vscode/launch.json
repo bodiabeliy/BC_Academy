@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Bogdan`s cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "BogdanSandbox",
+            "startupObjectId": 22,
+            "tenant": "7c45e212-7793-48c1-a4cd-81f7ce2d8246",
+            "startupObjectType": "Page",
+            "sandboxname": "SandBox",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    ]
+}
