@@ -25,7 +25,7 @@
             "type": "al",
             "environmentType": "Sandbox",
             "environmentName": "BogdanSandbox",
-            "startupObjectId": 22,
+            "startupObjectId": 50100,
             "tenant": "7c45e212-7793-48c1-a4cd-81f7ce2d8246",
             "startupObjectType": "Page",
             "sandboxname": "SandBox",
