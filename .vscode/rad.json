@@ -1,1 +1,1 @@
-﻿{"Added":[],"Modified":[],"Removed":[]}
+﻿{"Added":[],"Modified":[{"Id":50100,"Kind":12,"Name":"RadioCustomer","PackagePath":"/src/src/pages/Pag50100.RadioCustomer.al"},{"Id":50101,"Kind":12,"Name":"Rental Cars","PackagePath":"/src/src/pages/Pag50101.RentalCars.al"},{"Id":50102,"Kind":12,"Name":"Rental Salers","PackagePath":"/src/src/pages/Pag50102.RentalSalers.al"},{"Id":50102,"Kind":10,"Name":"Rental Saler","PackagePath":"/src/src/tables/Tab50102.RentalSaler.al"},{"Id":50101,"Kind":10,"Name":"Rental Car","PackagePath":"/src/src/tables/Tab50101.RentalCar.al"}],"Removed":[]}

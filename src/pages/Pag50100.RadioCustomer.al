@@ -5,6 +5,7 @@ page 50100 RadioCustomer
     PageType = List;
     SourceTable = "Customer";
 
+
     layout
     {
         area(content)
